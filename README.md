@@ -4,7 +4,8 @@
   <table>
 <tr>
   <td width="48%">
-      ![Github Stats](https://github-readme-stats.vercel.app/apiusername =Vinh&theme=radical)
+        <img src="https://github.com/CodexploreRepo/CodexploreRepo/blob/master/.github/assets/coding.gif" />
+
   </td>
   <td width="52%"><img alt="gif" align="right" src="https://raw.githubusercontent.com/ThanhLa1802/ThanhLa1802/main/.github/assets/coding-freak.gif"/></td>
 </tr>
