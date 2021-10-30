@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm VINH ND</h1>
-<h3 align="center">A newbie from Viet Nam</h3>
-   <img src="https://github-readme-stats.vercel.app/api?username=VinhND&show_icons=true&hide=contribs,issues&hide_border=true" />
 
-- 🌱 I’m currently learning **Python, C++, ...**
+<h3 align="center">A newbie from Viet Nam</h3>
+  <table>
+<tr>
+  <td width="48%">
+      ![Github Stats](https://github-readme-stats.vercel.app/apiusername =Vinh&theme=radical)
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="https://raw.githubusercontent.com/ThanhLa1802/ThanhLa1802/main/.github/assets/coding-freak.gif"/></td>
+</tr>
+<table>
+- 🌱 I’m currently learning everything 🤣
 
 - 💬 Ask me about **anything, if I know, I will answer.**
 
@@ -17,4 +24,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnmarcus&show_icons=true&locale=en&layout=compact" alt="vnmarcus" /></p>
